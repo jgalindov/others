@@ -1,3 +1,13 @@
+# Blocklist for use with hosts files to block update
+#
+# 
+# ----
+# last updated:   Wed, 23 Apr 2020 23:18:12 GMT
+# entries:        105
+# format:         hosts (hosts -- in hosts file format)
+# this URL:       https://raw.githubusercontent.com/jgalindov/others/master/hpsn.txt
+#
+# start date:    Wed, 23 Apr 2020 23:18:12 GMT
 127.0.0.1 post.net.playstation.net
 127.0.0.1 get.net.playstation.net
 127.0.0.1 fus01.ps4.update.playstation.net
